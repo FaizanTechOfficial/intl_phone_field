@@ -499,7 +499,8 @@ class _IntlPhoneFieldState extends State<IntlPhoneField> {
 
                          
                   const Container(
-                    height: double.infinity,
+                    height: 10,
+                    width:20,
                     decoration: BoxDecoration(border: Border(right: BorderSide(width: 1,color: Colors.red))),),
               ],
             ),
